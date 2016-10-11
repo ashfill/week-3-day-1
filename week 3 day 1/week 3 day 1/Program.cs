@@ -26,6 +26,9 @@ namespace week_3_day_1
             char twoover = 'h';
             Console.WriteLine(twoover.H);
 
+            float ANum = 77.2f;
+            Console.WriteLine(ANum.subtract());
+
             Console.ReadLine();
         }
     }
